@@ -1,5 +1,4 @@
 if you want to add your own package, comment on this file.
 ----------------------------------------------------------
-requests
 readchar
 threading
